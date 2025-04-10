@@ -42,3 +42,18 @@ The web interface will be available at http://localhost:5000
 2. Set budgets for different categories
 3. Check the reports page for budget alerts
 4. Verify data persists between sessions
+
+## Home Page
+![image](https://github.com/user-attachments/assets/5ac50c17-b339-4b87-a70b-29d04a3e31c9)
+
+## Add Expense
+![image](https://github.com/user-attachments/assets/8321e0ff-084a-458c-b549-0bc200e9fcaa)
+
+## Add Budget
+![image](https://github.com/user-attachments/assets/9e27169d-5db0-4e61-88a4-ff15df571fba)
+
+## Report
+![image](https://github.com/user-attachments/assets/17e14403-f020-44c3-a36a-eb21b8673528)
+
+
+
